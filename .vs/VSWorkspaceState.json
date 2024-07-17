@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AlunosReactApi"
+    "\\AlunosReactApi",
+    "\\AlunosReactApi\\Controllers"
   ],
-  "SelectedNode": "\\AlunosReactApi",
+  "SelectedNode": "\\AlunosReactApi\\Controllers\\EstudantesController.cs",
   "PreviewInSolutionExplorer": false
 }
