@@ -15,8 +15,6 @@ Este é o projeto AlunosApi, uma API desenvolvida para gerenciar informações d
     7. [Acessar a API](#7-acessar-a-api)
 3. [Endpoints Disponíveis](#endpoints-disponíveis)
 4. [Funcionamento Básico](#funcionamento-básico)
-5. [Adicionar Imagem no README](#adicionar-imagem-no-readme)
-6. [Contato](#contato)
 
 ## Pré-requisitos
 
@@ -104,23 +102,6 @@ PUT /alunos/{id}: Atualiza as informações de um aluno específico.
 DELETE /alunos/{id}: Deleta um aluno específico.
 Adicionar Imagem no README
 Para adicionar uma imagem no README, você pode usar a seguinte sintaxe:
-
-markdown
-Copiar código
-![Alt Text](url_da_imagem)
-Se você quiser adicionar uma imagem que está no seu repositório, adicione a imagem ao seu repositório e use um caminho relativo. Por exemplo:
-
-markdown
-Copiar código
-![Logo](./imagens/logo.png)
-Contato
-Para mais informações, entre em contato:
-
-Nome: GermanEdu
-Email: example@example.com
-GitHub: GermanEdu
-perl
-Copiar código
 
 ### Passos para adicionar uma imagem ao seu repositório:
 
