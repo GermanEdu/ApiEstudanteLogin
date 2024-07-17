@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlunosReactApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c94f4e6a3d29335d163bff50fcebc6981d05fd4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd15c627bfa6f8cbf588fbca494b9d249baa2990")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlunosReactApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlunosReactApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

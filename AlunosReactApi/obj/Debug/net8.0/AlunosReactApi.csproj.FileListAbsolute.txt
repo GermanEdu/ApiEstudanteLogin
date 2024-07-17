@@ -118,11 +118,15 @@ D:\ProjetosCSharp\AlunosReactApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.Ident
 D:\ProjetosCSharp\AlunosReactApi\AlunosReactApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\appsettings.Development.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\appsettings.json
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.runner.visualstudio.testadapter.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\AlunosReactApi.exe
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\AlunosReactApi.deps.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\AlunosReactApi.runtimeconfig.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\AlunosReactApi.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\AlunosReactApi.pdb
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Castle.Core.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Humanizer.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -149,6 +153,7 @@ C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.IdentityMode
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Moq.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\MySqlConnector.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
@@ -161,6 +166,10 @@ C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\System.Composition.Hos
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.abstractions.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.assert.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.core.dll
+C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\xunit.execution.dotnet.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\ProjetoReact\AlunosApi\AlunosReactApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll

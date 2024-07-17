@@ -3,52 +3,28 @@
   "WorkspaceRootPath": "C:\\ProjetoReact\\AlunosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\controllers\\estudantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A62CCCEC-B8AC-42C9-A755-39956BCCDA3E}|AlunosApi.Tests\\AlunosApi.Tests.csproj|c:\\projetoreact\\alunosapi\\alunosapi.tests\\controllers\\estudantescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62CCCEC-B8AC-42C9-A755-39956BCCDA3E}|AlunosApi.Tests\\AlunosApi.Tests.csproj|solutionrelative:alunosapi.tests\\controllers\\estudantescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62CCCEC-B8AC-42C9-A755-39956BCCDA3E}|AlunosApi.Tests\\AlunosApi.Tests.csproj|c:\\projetoreact\\alunosapi\\alunosapi.tests\\alunosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A62CCCEC-B8AC-42C9-A755-39956BCCDA3E}|AlunosApi.Tests\\AlunosApi.Tests.csproj|solutionrelative:alunosapi.tests\\alunosapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\alunosreactapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\alunosreactapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\alunosreactapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\alunosreactapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AlunosReactApi",
+              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
+              "RelativeDocumentMoniker": "AlunosReactApi\\AlunosReactApi.csproj",
+              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
+              "RelativeToolTip": "AlunosReactApi\\AlunosReactApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T02:33:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunosApi.Tests",
+              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\AlunosApi.Tests.csproj",
+              "RelativeDocumentMoniker": "AlunosApi.Tests\\AlunosApi.Tests.csproj",
+              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\AlunosApi.Tests.csproj",
+              "RelativeToolTip": "AlunosApi.Tests\\AlunosApi.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T02:22:54.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudantesControllerTests.cs",
+              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\Controllers\\EstudantesControllerTests.cs",
+              "RelativeDocumentMoniker": "AlunosApi.Tests\\Controllers\\EstudantesControllerTests.cs",
+              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\Controllers\\EstudantesControllerTests.cs",
+              "RelativeToolTip": "AlunosApi.Tests\\Controllers\\EstudantesControllerTests.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAqwCIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T02:17:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240716221334_InitialCreatetable.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
@@ -70,23 +85,25 @@
               "RelativeToolTip": "AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwFAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:13:34.635Z"
+              "WhenOpened": "2024-07-16T22:13:34.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\Context\\AppDbContext.cs",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Context\\AppDbContext.cs",
               "RelativeToolTip": "AlunosReactApi\\Context\\AppDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBIAAAAHAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:09:59.812Z"
+              "WhenOpened": "2024-07-16T22:09:59.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\ViewModels\\RegisterModel.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\ViewModels\\RegisterModel.cs",
@@ -95,115 +112,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T23:19:27.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\ViewModels\\LoginModel.cs",
-              "RelativeDocumentMoniker": "AlunosReactApi\\ViewModels\\LoginModel.cs",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\ViewModels\\LoginModel.cs",
-              "RelativeToolTip": "AlunosReactApi\\ViewModels\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T23:19:25.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EstudantesController.cs",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\EstudantesController.cs",
-              "RelativeDocumentMoniker": "AlunosReactApi\\Controllers\\EstudantesController.cs",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\EstudantesController.cs",
-              "RelativeToolTip": "AlunosReactApi\\Controllers\\EstudantesController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAD4v2cAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:27:24.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "AlunosReactApi\\Models\\Aluno.cs",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Models\\Aluno.cs",
-              "RelativeToolTip": "AlunosReactApi\\Models\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:26:15.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "AlunosReactApi\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "AlunosReactApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwCsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:15:14.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AlunosReactApi",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
-              "RelativeDocumentMoniker": "AlunosReactApi\\AlunosReactApi.csproj",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
-              "RelativeToolTip": "AlunosReactApi\\AlunosReactApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-15T21:00:50.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AlunosReactApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AlunosReactApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T20:54:09.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Program.cs",
-              "RelativeDocumentMoniker": "AlunosReactApi\\Program.cs",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Program.cs",
-              "RelativeToolTip": "AlunosReactApi\\Program.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAWwF0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T20:50:06.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "AlunosReactApi\\appsettings.Development.json",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.Development.json",
-              "RelativeToolTip": "AlunosReactApi\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T20:50:04.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.json",
-              "RelativeDocumentMoniker": "AlunosReactApi\\appsettings.json",
-              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.json",
-              "RelativeToolTip": "AlunosReactApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-15T20:49:49.495Z"
             }
           ]
         }
