@@ -220,6 +220,7 @@ C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\AlunosReactApi.Assembl
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\AlunosReactApi.csproj.CoreCompileInputs.cache
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\AlunosReactApi.MvcApplicationPartsAssemblyInfo.cs
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\AlunosReactApi.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\AlunosReactApi.sourcelink.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\ProjetoReact\AlunosApi\AlunosReactApi\obj\Debug\net8.0\staticwebassets\msbuild.AlunosReactApi.Microsoft.AspNetCore.StaticWebAssets.props

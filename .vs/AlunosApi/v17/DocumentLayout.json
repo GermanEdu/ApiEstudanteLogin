@@ -15,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -41,6 +45,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|c:\\projetoreact\\alunosapi\\alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A282043-D7FC-4C1E-86F5-021A21A1DAE3}|AlunosReactApi\\AlunosReactApi.csproj|solutionrelative:alunosreactapi\\migrations\\20240716221334_initialcreatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +58,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "20240716221334_InitialCreatetable.cs",
+              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
+              "RelativeDocumentMoniker": "AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
+              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
+              "RelativeToolTip": "AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwFAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:13:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AlunosReactApi\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "AlunosReactApi\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwBIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T22:09:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\ViewModels\\RegisterModel.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\ViewModels\\RegisterModel.cs",
@@ -66,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\ViewModels\\LoginModel.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\ViewModels\\LoginModel.cs",
@@ -84,7 +116,7 @@
               "RelativeDocumentMoniker": "AlunosReactApi\\Controllers\\EstudantesController.cs",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\EstudantesController.cs",
               "RelativeToolTip": "AlunosReactApi\\Controllers\\EstudantesController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAD4v1cAAAAIAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAD4v2cAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T21:27:24.57Z",
               "EditorCaption": ""
@@ -97,10 +129,9 @@
               "RelativeDocumentMoniker": "AlunosReactApi\\Models\\Aluno.cs",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Models\\Aluno.cs",
               "RelativeToolTip": "AlunosReactApi\\Models\\Aluno.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T21:26:15.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T21:26:15.531Z"
             },
             {
               "$type": "Document",
@@ -110,14 +141,14 @@
               "RelativeDocumentMoniker": "AlunosReactApi\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "AlunosReactApi\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAswDwAAABKAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwCsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T21:15:14.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AlunosReactApi",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
               "RelativeDocumentMoniker": "AlunosReactApi\\AlunosReactApi.csproj",
@@ -128,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "AlunosReactApi\\Properties\\launchSettings.json",
@@ -140,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\Program.cs",
               "RelativeDocumentMoniker": "AlunosReactApi\\Program.cs",
@@ -152,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AlunosReactApi\\appsettings.Development.json",
@@ -164,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\appsettings.json",
               "RelativeDocumentMoniker": "AlunosReactApi\\appsettings.json",

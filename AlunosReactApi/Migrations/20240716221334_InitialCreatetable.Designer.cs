@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AlunosReactApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240714233920_InicialIdentity")]
-    partial class InicialIdentity
+    [Migration("20240716221334_InitialCreatetable")]
+    partial class InitialCreatetable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -33,18 +33,29 @@ namespace AlunosReactApi.Migrations
 
                     MySqlPropertyBuilderExtensions.UseMySqlIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Email")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)");
+                    b.Property<DateTime>("DataNascimento")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<string>("Endereco")
+                        .HasColumnType("longtext");
 
                     b.Property<int>("Idade")
                         .HasColumnType("int");
 
                     b.Property<string>("Nome")
-                        .IsRequired()
-                        .HasMaxLength(80)
-                        .HasColumnType("varchar(80)");
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("NomeMae")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("NomePai")
+                        .HasColumnType("longtext");
+
+                    b.Property<double>("NotaMedia")
+                        .HasColumnType("double");
+
+                    b.Property<int>("Serie")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 

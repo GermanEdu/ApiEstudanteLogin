@@ -16,19 +16,6 @@ namespace AlunosReactApi.Context
         
         public DbSet<Aluno> Alunos { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Aluno>().HasData(
-
-
-        //        new Aluno
-        //        {
-        //            Id = 1,
-        //            Nome = "Eduardo Germano",
-        //            Email = "germano.edu@gmail.com",
-        //            Idade = 50
-        //        });
-        //}
-
+       
     }
 }

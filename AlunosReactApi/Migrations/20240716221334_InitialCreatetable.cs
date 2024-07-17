@@ -7,15 +7,38 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace AlunosReactApi.Migrations
 {
     /// <inheritdoc />
-    public partial class InicialIdentity : Migration
+    public partial class InitialCreatetable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.DeleteData(
-                table: "Alunos",
-                keyColumn: "Id",
-                keyValue: 1);
+            migrationBuilder.AlterDatabase()
+                .Annotation("MySql:CharSet", "utf8mb4");
+
+            migrationBuilder.CreateTable(
+                name: "Alunos",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Nome = table.Column<string>(type: "longtext", nullable: true)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    Idade = table.Column<int>(type: "int", nullable: false),
+                    Serie = table.Column<int>(type: "int", nullable: false),
+                    NotaMedia = table.Column<double>(type: "double", nullable: false),
+                    Endereco = table.Column<string>(type: "longtext", nullable: true)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    NomePai = table.Column<string>(type: "longtext", nullable: true)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    NomeMae = table.Column<string>(type: "longtext", nullable: true)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    DataNascimento = table.Column<DateTime>(type: "datetime(6)", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Alunos", x => x.Id);
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "AspNetRoles",
@@ -240,6 +263,9 @@ namespace AlunosReactApi.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
+                name: "Alunos");
+
+            migrationBuilder.DropTable(
                 name: "AspNetRoleClaims");
 
             migrationBuilder.DropTable(
@@ -259,11 +285,6 @@ namespace AlunosReactApi.Migrations
 
             migrationBuilder.DropTable(
                 name: "AspNetUsers");
-
-            migrationBuilder.InsertData(
-                table: "Alunos",
-                columns: new[] { "Id", "Email", "Idade", "Nome" },
-                values: new object[] { 1, "germano.edu@gmail.com", 50, "Eduardo Germano" });
         }
     }
 }
