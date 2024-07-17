@@ -21,6 +21,7 @@ Este é o projeto AlunosApi, uma API desenvolvida para gerenciar informações d
 - .NET 6.0 SDK ou superior instalado
 - Git instalado
 - MySQL Server (se estiver usando MySQL) ou ajustar para usar um banco de dados em memória como SQLite para facilidade de teste.
+![apiima](https://github.com/user-attachments/assets/ea12c52f-b17d-477b-8e46-375803cd399c)
 
 ## Passo a Passo para Clonar o Repositório e Rodar a Web API
 
