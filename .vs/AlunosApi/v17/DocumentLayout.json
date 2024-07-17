@@ -39,28 +39,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AlunosReactApi",
+              "Title": "AlunosReactApi.csproj",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
               "RelativeDocumentMoniker": "AlunosReactApi\\AlunosReactApi.csproj",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosReactApi\\AlunosReactApi.csproj",
               "RelativeToolTip": "AlunosReactApi\\AlunosReactApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T02:33:56.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:33:56.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AlunosApi.Tests",
+              "Title": "AlunosApi.Tests.csproj",
               "DocumentMoniker": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\AlunosApi.Tests.csproj",
               "RelativeDocumentMoniker": "AlunosApi.Tests\\AlunosApi.Tests.csproj",
               "ToolTip": "C:\\ProjetoReact\\AlunosApi\\AlunosApi.Tests\\AlunosApi.Tests.csproj",
               "RelativeToolTip": "AlunosApi.Tests\\AlunosApi.Tests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-17T02:22:54.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T02:22:54.705Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "AlunosReactApi\\Migrations\\20240716221334_InitialCreatetable.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAgwFAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:13:34.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T22:13:34.635Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "AlunosReactApi\\Context\\AppDbContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAUwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T22:09:59.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T22:09:59.812Z"
             },
             {
               "$type": "Document",
